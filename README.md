@@ -14,10 +14,10 @@ $ go get github.com/peterhellberg/voice
 ```go
 package main
 
-import . "github.com/peterhellberg/voice"
+import "github.com/peterhellberg/voice"
 
 func main() {
-	Say("Hello", 42, 3.14)
+	voice.Say("Hello", 42, 3.14)
 }
 ```
 
