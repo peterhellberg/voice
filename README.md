@@ -4,6 +4,7 @@ voice
 Go package that is just calling the [OS X say command](https://developer.apple.com/library/mac/documentation/Darwin/Reference/ManPages/man1/say.1.html), tweet sized.
 
 [![GoDoc](https://godoc.org/github.com/peterhellberg/voice?status.svg)](https://godoc.org/github.com/peterhellberg/voice)
+[![License MIT](https://img.shields.io/badge/license-MIT-lightgrey.svg?style=flat)](https://github.com/peterhellberg/voice#license-mit)
 
 ## Installation
 
@@ -23,12 +24,10 @@ func main() {
 }
 ```
 
-## License
+## License (MIT)
 
-> *The MIT License (MIT)*
->
-> Copyright (c) 2015 [Peter Hellberg](http://c7.se/)
->
+Copyright (c) 2015 [Peter Hellberg](http://c7.se/)
+
 > Permission is hereby granted, free of charge, to any person obtaining a copy
 > of this software and associated documentation files (the "Software"), to deal
 > in the Software without restriction, including without limitation the rights
