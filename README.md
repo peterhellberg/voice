@@ -9,7 +9,7 @@ Go package that is just calling the [OS X say command](https://developer.apple.c
 ## Installation
 
 ```bash
-$ go get github.com/peterhellberg/voice
+$ go get -u github.com/peterhellberg/voice
 ```
 
 ## Usage example
